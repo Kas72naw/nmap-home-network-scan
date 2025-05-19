@@ -1,0 +1,18 @@
+# Nmap Home Network Scan 🔍
+
+This is my first GitHub project, where I use Nmap to scan and analyze my home network.
+
+## 🔧 Tools Used
+- Nmap
+- Linux Terminal
+
+## 📄 What This Project Includes
+- A sample Nmap scan report
+- Basic analysis of open ports and services
+- Learnings & notes
+
+## 🧠 Why This Project?
+Starting my cybersecurity journey by understanding how devices communicate on my own network.
+
+## 📅 Date
+May 2025
